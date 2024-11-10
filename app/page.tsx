@@ -8,7 +8,7 @@ const HomePage = () => {
       <Header />
       <div className=" flex flex-row h-[80%] mx-auto max-w-[1600px] pt-10">
         <div className="w-full lg:w-2/3 flex flex-col lg:text-left mb-4 lg:ml-[80px]">
-          <h1 className="font-libre text-[#000000] text-2xl md:text-4xl lg:text-5xl font-bold tracking-normal mb-1 md:mb- lg:mb-5 pt-10 lg:pt-20">
+          <h1 className="font-libre text-[#000000] text-2xl md:text-4xl lg:text-5xl font-bold tracking-normal mb-1 md:mb-3 lg:mb-5 pt-10 lg:pt-20">
             IMPECCABLE<br/>
             CRAFTSMANSHIP AND<br/>
             FINESSE
